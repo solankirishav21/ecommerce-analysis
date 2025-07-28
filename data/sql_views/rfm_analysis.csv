@@ -1,0 +1,333 @@
+customer_name,recency,frequency,monetary,r_score,f_score,m_score,customer_segment
+Sabah,325,1,1384.00,1,1,3,At Risk
+Pratyusmita,315,1,1570.00,1,1,3,At Risk
+Chayanika,314,1,166.00,1,3,1,Others
+Tanvi,313,1,934.00,1,1,3,At Risk
+Charika,310,1,768.00,1,1,3,At Risk
+Piyali,310,1,610.00,1,1,2,At Risk
+Arsheen,307,1,285.00,1,3,2,Others
+Akanksha,307,1,27.00,1,1,1,At Risk
+Chandni,303,1,2390.00,1,2,4,At Risk
+Bathina,301,1,425.00,1,3,2,Others
+Avni,300,1,76.00,1,2,1,At Risk
+Bhawna,300,1,3599.00,1,2,4,At Risk
+Samiksha,295,1,134.00,1,2,1,At Risk
+Sanjna,293,1,826.00,1,1,3,At Risk
+Swetha,293,1,352.00,1,3,2,Others
+Bhaggyasree,290,1,715.00,1,1,2,At Risk
+Gunjan,289,1,31.00,1,1,1,At Risk
+Akancha,288,1,806.00,1,1,3,At Risk
+Suhani,286,1,171.00,1,3,1,Others
+Subhasmita,286,1,167.00,1,3,1,Others
+Parna,286,1,975.00,1,1,3,At Risk
+Noopur,283,1,1607.00,1,2,3,At Risk
+Vijay,282,1,1995.00,1,2,4,At Risk
+Amisha,281,1,909.00,1,1,3,At Risk
+Kritika,280,1,124.00,1,2,1,At Risk
+Shubhi,279,1,180.00,1,3,2,Others
+Maithilee,278,1,174.00,1,3,1,Others
+Shaily,277,1,1777.00,1,2,4,At Risk
+Ekta,276,2,694.00,1,4,2,Others
+Riya,275,1,228.00,1,3,2,Others
+Swetlana,273,1,31.00,1,1,1,At Risk
+Kishwar,273,1,1013.00,1,1,3,At Risk
+Aakanksha,273,1,74.00,1,2,1,At Risk
+Adhvaita,267,1,193.00,1,3,2,Others
+Raksha,266,1,158.00,1,3,1,Others
+Stuti,265,1,351.00,1,3,2,Others
+Srishti,264,1,416.00,1,3,2,Others
+Manshul,262,1,844.00,1,1,3,At Risk
+Rashmi,262,2,170.00,1,3,1,Others
+Namrata,259,1,30.00,1,1,1,At Risk
+Anchal,258,1,369.00,1,3,2,Others
+Inderpreet,257,1,48.00,1,2,1,At Risk
+Wale,256,1,130.00,1,2,1,At Risk
+Anisha,254,1,193.00,1,3,2,Others
+Kiran,253,1,490.00,1,1,2,At Risk
+Turumella,252,1,384.00,1,3,2,Others
+Ameesha,252,1,2148.00,1,2,4,At Risk
+Rishabh,252,1,2002.00,1,2,4,At Risk
+Madhulika,252,1,1549.00,1,1,3,At Risk
+Akash,248,1,131.00,1,2,1,At Risk
+Anubhaw,247,1,16.00,1,1,1,At Risk
+Dhirajendu,246,1,96.00,1,2,1,At Risk
+Arindam,244,1,34.00,1,1,1,At Risk
+Akshat,243,1,31.00,1,1,1,At Risk
+Rane,240,1,105.00,1,2,1,At Risk
+Ashwin,240,1,11.00,1,2,1,At Risk
+Daksh,240,1,133.00,1,2,1,At Risk
+Navdeep,240,1,482.00,1,1,2,At Risk
+Devendra,235,1,373.00,1,3,2,Others
+Nitant,231,1,420.00,1,3,2,Others
+Vaibhav,229,1,3065.00,1,2,4,At Risk
+Nishant,229,1,1136.00,1,1,3,At Risk
+Priyanshu,229,1,1213.00,1,1,3,At Risk
+Shivam,226,2,1587.00,1,4,3,Others
+Shourya,224,1,3205.00,1,2,4,At Risk
+Mohan,223,1,2070.00,1,2,4,At Risk
+Mohit,222,1,3912.00,1,2,4,At Risk
+Anudeep,217,1,1441.00,1,1,3,At Risk
+Noshiba,216,1,58.00,1,2,1,At Risk
+Sanjova,215,1,934.00,1,1,3,At Risk
+Meghana,214,1,139.00,1,3,1,Others
+Ashmeet,212,1,459.00,1,3,2,Others
+Shreyoshe,211,1,1582.00,1,2,3,At Risk
+Vaibhavi,210,1,148.00,1,3,1,Others
+Sakshi,210,2,1171.00,1,4,3,Others
+Snehal,205,1,38.00,1,1,1,At Risk
+Duhita,204,1,50.00,1,2,1,At Risk
+Mousam,203,1,47.00,1,2,1,At Risk
+Surabhi,201,4,6889.00,1,4,4,Others
+Savi,200,1,1361.00,1,1,3,At Risk
+Teena,199,1,137.00,1,2,1,At Risk
+Rutuja,198,1,1511.00,1,1,3,At Risk
+Ayush,197,3,3269.00,1,4,4,Others
+Rohit,197,1,15.00,2,1,1,At Risk
+Asish,192,1,965.00,2,1,3,At Risk
+Dinesh,191,1,12.00,2,1,1,At Risk
+Sajal,189,1,42.00,2,1,1,At Risk
+Sukrith,188,1,1721.00,2,1,4,At Risk
+Sukant,188,1,276.00,2,3,2,Others
+Avish,188,1,993.00,2,1,3,At Risk
+Sauptik,182,1,3287.00,2,2,4,At Risk
+Ishit,181,1,188.00,2,3,2,Others
+Aryan,181,1,149.00,2,3,1,Others
+Shishu,181,1,3803.00,2,2,4,At Risk
+Divyansh,181,1,367.00,2,3,2,Others
+Yash,177,1,791.00,2,1,3,At Risk
+Sudheer,177,1,477.00,2,1,2,At Risk
+Shivanshu,177,1,3266.00,2,2,4,At Risk
+Dhanraj,176,1,632.00,2,1,2,At Risk
+Vipul,175,1,16.00,2,1,1,At Risk
+Apsingekar,174,1,478.00,2,1,2,At Risk
+Suman,173,1,207.00,2,3,2,Others
+Nripraj,172,1,1619.00,2,2,3,At Risk
+Kshitij,172,1,259.00,2,3,2,Others
+Hrisheekesh,172,1,911.00,2,1,3,At Risk
+Utsav,172,1,126.00,2,2,1,At Risk
+Mane,170,1,391.00,2,3,2,Others
+Praneet,169,1,743.00,2,1,2,At Risk
+Sandeep,168,1,265.00,2,3,2,Others
+Dheeraj,166,1,119.00,2,2,1,At Risk
+Tejas,164,1,34.00,2,1,1,At Risk
+Shyam,162,1,101.00,2,2,1,At Risk
+Kartik,161,2,2308.00,2,4,4,Others
+Tanushree,160,1,637.00,2,1,2,At Risk
+Nikita,158,1,902.00,2,1,3,At Risk
+Apoorva,157,1,345.00,2,3,2,Others
+Aastha,156,1,3276.00,2,2,4,At Risk
+Harshita,154,1,504.00,2,1,2,At Risk
+Krishna,153,1,145.00,2,3,1,Others
+Arti,153,1,1298.00,2,1,3,At Risk
+Sanjana,153,2,2450.00,2,3,4,Others
+Ananya,153,1,16.00,2,1,1,At Risk
+Palak,153,1,263.00,2,3,2,Others
+Moumita,153,1,234.00,2,3,2,Others
+Pranjali,152,1,1250.00,2,1,3,At Risk
+Sneha,151,1,806.00,2,1,3,At Risk
+Ashvini,150,1,22.00,2,1,1,At Risk
+Sheetal,149,4,2756.00,2,4,4,Others
+Aniket,148,1,907.00,2,1,3,At Risk
+Swati,148,1,86.00,2,2,1,At Risk
+Soodesh,148,1,94.00,2,2,1,At Risk
+Mrunal,148,1,582.00,2,1,2,At Risk
+Snel,148,1,1245.00,2,1,3,At Risk
+K,147,1,336.00,2,3,2,Others
+Kushal,145,1,1383.00,2,1,3,At Risk
+Soumyabrata,144,1,1510.00,2,1,3,At Risk
+Abhijeet,141,2,5691.00,2,4,4,Others
+Chikku,137,1,724.00,2,1,2,At Risk
+Manibalan,136,1,189.00,2,3,2,Others
+Aayush,136,1,556.00,2,1,2,At Risk
+Arun,136,1,85.00,2,2,1,At Risk
+Akshay,136,3,1367.00,2,4,3,Others
+Aromal,136,1,166.00,2,3,1,Others
+Amol,136,1,2262.00,2,2,4,At Risk
+Vikash,133,1,1350.00,2,1,3,At Risk
+Parakh,132,1,86.00,2,2,1,At Risk
+Pranav,131,2,1493.00,2,4,3,Others
+Gunjal,130,1,118.00,2,2,1,At Risk
+Divyeta,128,1,1757.00,2,2,4,At Risk
+Apoorv,127,1,108.00,2,2,1,At Risk
+Bhosale,127,1,282.00,2,3,2,Others
+Dashyam,127,1,1430.00,2,1,3,At Risk
+Divyeshkumar,127,1,248.00,2,3,2,Others
+Megha,127,2,1057.00,2,4,3,Others
+Mrinal,127,1,1895.00,2,2,4,At Risk
+Siddharth,127,2,1921.00,2,3,4,Others
+Masurkar,125,1,121.00,2,2,1,At Risk
+Saptadeep,124,1,404.00,2,3,2,Others
+Shatayu,123,1,1571.00,2,2,3,At Risk
+Sumeet,123,1,24.00,2,1,1,At Risk
+Brijesh,123,1,761.00,2,1,2,At Risk
+Vedant,120,1,2208.00,2,2,4,At Risk
+Sathya,117,1,388.00,2,3,2,Others
+Divyansha,117,1,465.00,2,3,2,Others
+Shivani,117,2,251.00,2,4,2,Others
+Aashna,117,1,1931.00,2,2,4,At Risk
+Monu,117,1,1246.00,3,1,3,Others
+Aditi,117,2,1521.00,3,4,3,Potential Loyalists
+Aman,116,2,1540.00,3,3,3,Potential Loyalists
+Rohan,115,4,4901.00,3,4,4,Potential Loyalists
+Abhishek,114,5,8135.00,3,4,4,Potential Loyalists
+Aishwarya,113,1,939.00,3,1,3,Others
+Anand,112,2,1514.00,3,4,3,Potential Loyalists
+Amlan,111,1,1210.00,3,1,3,Others
+Swapnil,111,3,4929.00,3,4,4,Potential Loyalists
+Ishpreet,111,1,3003.00,3,2,4,Others
+Suraj,111,1,468.00,3,3,2,Others
+Jaydeep,110,1,30.00,3,1,1,Others
+Bhargav,110,1,152.00,3,3,1,Others
+Abhijit,110,1,78.00,3,2,1,Others
+Pradeep,109,1,179.00,3,3,2,Others
+Sujay,108,1,2233.00,3,2,4,Others
+Jay,107,1,3574.00,3,2,4,Others
+Phalguni,106,1,40.00,3,1,1,Others
+Preksha,105,1,102.00,3,2,1,Others
+Geetanjali,104,1,103.00,3,2,1,Others
+Sukruta,102,1,277.00,3,3,2,Others
+Utkarsh,101,1,80.00,3,2,1,Others
+Karandeep,99,1,244.00,3,3,2,Others
+Neha,98,1,3350.00,3,2,4,Others
+Jayanti,97,1,100.00,3,2,1,Others
+Sandra,96,1,325.00,3,3,2,Others
+Akshata,95,1,52.00,3,2,1,Others
+Vishakha,94,1,4836.00,3,2,4,Others
+Prajakta,93,1,148.00,3,3,1,Others
+Dipali,91,1,57.00,3,2,1,Others
+Smriti,89,1,147.00,3,3,1,Others
+Girase,88,1,1678.00,3,2,3,Others
+Monica,87,1,1397.00,3,1,3,Others
+Rahul,86,1,105.00,3,2,1,Others
+Bhutekar,86,1,71.00,3,2,1,Others
+Sidharth,86,1,73.00,3,2,1,Others
+Sudhir,86,1,1969.00,3,2,4,Others
+Vineet,85,1,666.00,3,1,2,Others
+Ankit,85,3,1647.00,3,4,3,Potential Loyalists
+Shikhar,85,2,820.00,3,4,3,Potential Loyalists
+Nikhil,85,1,61.00,3,2,1,Others
+Vivek,84,1,114.00,3,2,1,Others
+Jaideep,83,1,177.00,3,3,1,Others
+Ankur,82,2,1063.00,3,4,3,Potential Loyalists
+Shardul,81,1,1907.00,3,2,4,Others
+Syed,80,1,169.00,3,3,1,Others
+Mhatre,79,1,1133.00,3,1,3,Others
+Saurabh,78,2,203.00,3,3,2,Others
+Mukund,77,1,152.00,3,3,1,Others
+Chetan,77,1,497.00,3,1,2,Others
+Shantanu,77,1,315.00,3,3,2,Others
+Jesal,77,1,1782.00,3,2,4,Others
+Trupti,76,1,2017.00,3,2,4,Others
+Krutika,76,2,3112.00,3,4,4,Potential Loyalists
+Surbhi,72,2,1309.00,3,3,3,Potential Loyalists
+Mahima,72,3,2030.00,3,4,4,Potential Loyalists
+Aparajita,72,1,465.00,3,3,2,Others
+Shreya,72,6,3952.00,3,4,4,Potential Loyalists
+Muskan,72,1,2268.00,3,2,4,Others
+Tejeswini,71,1,1116.00,3,1,3,Others
+Pratiksha,71,1,53.00,3,2,1,Others
+Oshin,70,1,1904.00,3,2,4,Others
+Soumya,69,3,6869.00,3,4,4,Potential Loyalists
+Saloni,69,1,17.00,3,1,1,Others
+Paromita,69,1,811.00,3,1,3,Others
+Shreyshi,69,1,3343.00,3,2,4,Others
+Rhea,68,2,1544.00,3,3,3,Potential Loyalists
+Mitali,68,2,1076.00,3,4,3,Potential Loyalists
+Jesslyn,67,1,115.00,3,2,1,Others
+Seema,66,1,5228.00,3,2,4,Others
+Manisha,65,1,662.00,3,1,2,Others
+Piyam,65,1,193.00,3,3,2,Others
+Shivangi,63,2,1130.00,3,4,3,Potential Loyalists
+Parin,63,1,1404.00,3,1,3,Others
+Aayushi,63,3,689.00,3,4,2,Others
+Amruta,62,1,1318.00,3,1,3,Others
+Hemangi,61,1,13.00,3,1,1,Others
+Kajal,60,2,889.00,3,3,3,Potential Loyalists
+Atul,60,1,1034.00,3,1,3,Others
+Nirja,59,1,79.00,3,2,1,Others
+Ginny,59,1,381.00,3,3,2,Others
+Shweta,59,3,2293.00,3,4,4,Potential Loyalists
+Manjiri,59,1,387.00,3,3,2,Others
+Anjali,58,3,3537.00,4,4,4,Champions
+Mugdha,57,1,71.00,4,2,1,Recent Customers
+Gaurav,56,2,3349.00,4,4,4,Champions
+Mansi,56,1,291.00,4,3,2,Loyal Customers
+Omkar,56,1,196.00,4,3,2,Loyal Customers
+Harshal,56,1,6026.00,4,2,4,Recent Customers
+Prashant,55,1,994.00,4,1,3,Recent Customers
+Anmol,55,1,50.00,4,2,1,Recent Customers
+Yohann,55,1,1314.00,4,1,3,Recent Customers
+Diwakar,54,1,2342.00,4,2,4,Recent Customers
+Patil,52,1,220.00,4,3,2,Loyal Customers
+Nandita,51,1,309.00,4,3,2,Loyal Customers
+Parnavi,51,1,87.00,4,2,1,Recent Customers
+Harsh,51,3,1593.00,4,4,3,Loyal Customers
+Hitesh,51,1,3548.00,4,2,4,Recent Customers
+Arpita,50,1,1301.00,4,1,3,Recent Customers
+Shubham,50,5,3387.00,4,4,4,Champions
+Kalyani,50,1,295.00,4,3,2,Loyal Customers
+Komal,49,3,896.00,4,4,3,Loyal Customers
+Kartikay,48,1,890.00,4,1,3,Recent Customers
+Pooja,35,5,9030.00,4,4,4,Champions
+Hemant,34,2,1643.00,4,4,3,Loyal Customers
+Sahil,33,2,1490.00,4,4,3,Loyal Customers
+Ritu,32,2,265.00,4,4,2,Loyal Customers
+Manish,31,2,55.00,4,4,1,Loyal Customers
+Amit,30,2,1934.00,4,3,4,Loyal Customers
+Sanjay,29,3,517.00,4,4,2,Loyal Customers
+Nidhi,28,2,1329.00,4,3,3,Loyal Customers
+Nishi,27,2,669.00,4,4,2,Loyal Customers
+Ashmi,27,2,172.00,4,3,1,Loyal Customers
+Parth,27,2,5161.00,4,4,4,Champions
+Lisha,26,2,1729.00,4,4,4,Champions
+Paridhi,25,2,2466.00,4,3,4,Loyal Customers
+Parishi,24,2,4741.00,4,4,4,Champions
+Ajay,23,3,1922.00,4,4,4,Champions
+Kirti,22,2,3216.00,4,4,4,Champions
+Sonal,21,2,1790.00,4,3,4,Loyal Customers
+Sharda,21,2,1715.00,4,4,3,Loyal Customers
+Mayank,21,2,1629.00,4,4,3,Loyal Customers
+Yaanvi,21,2,9177.00,4,3,4,Loyal Customers
+Aditya,20,3,703.00,4,4,2,Loyal Customers
+Rachna,19,2,47.00,4,4,1,Loyal Customers
+Chirag,18,2,3192.00,4,3,4,Loyal Customers
+Anurag,17,2,4259.00,4,3,4,Loyal Customers
+Farah,16,2,4675.00,4,4,4,Champions
+Tushina,16,2,600.00,4,4,2,Loyal Customers
+Shefali,15,2,220.00,4,4,2,Loyal Customers
+Tulika,15,2,4668.00,4,3,4,Loyal Customers
+Priyanka,15,4,5762.00,4,4,4,Champions
+Nida,15,2,1201.00,4,3,3,Loyal Customers
+Ankita,15,1,280.00,4,3,2,Loyal Customers
+Sanskriti,14,2,203.00,4,3,2,Loyal Customers
+Shruti,13,4,5750.00,4,4,4,Champions
+Subhashree,12,2,529.00,4,3,2,Loyal Customers
+Sweta,11,2,808.00,4,4,3,Loyal Customers
+Pournamasi,10,2,2286.00,4,4,4,Champions
+Bharat,10,3,1579.00,4,4,3,Loyal Customers
+Pearl,10,3,3944.00,4,4,4,Champions
+Jahan,10,3,2807.00,4,4,4,Champions
+Aarushi,9,3,4701.00,4,4,4,Champions
+Hazel,9,3,944.00,4,4,3,Loyal Customers
+Kasheen,9,3,958.00,4,4,3,Loyal Customers
+Divsha,9,3,968.00,4,4,3,Loyal Customers
+Sonakshi,9,3,237.00,4,4,2,Loyal Customers
+Jitesh,8,3,1190.00,4,4,3,Loyal Customers
+Yogesh,7,4,5421.00,4,4,4,Champions
+Anita,6,3,561.00,4,4,2,Loyal Customers
+Bhavna,5,3,307.00,4,4,2,Loyal Customers
+Vandana,5,3,1456.00,4,4,3,Loyal Customers
+Kanak,5,3,699.00,4,4,2,Loyal Customers
+Shrichand,5,3,3828.00,4,4,4,Champions
+Mukesh,5,3,3704.00,4,4,4,Champions
+Sarita,4,3,5449.00,4,4,4,Champions
+Deepak,4,3,1013.00,4,4,3,Loyal Customers
+Manju,4,3,2084.00,4,4,4,Champions
+Ramesh,4,3,471.00,4,4,2,Loyal Customers
+Sagar,4,3,439.00,4,4,2,Loyal Customers
+Atharv,3,3,2584.00,4,4,4,Champions
+Vini,3,3,2139.00,4,4,4,Champions
+Monisha,3,3,587.00,4,4,2,Loyal Customers
+Pinky,2,3,3160.00,4,4,4,Champions
+Bhishm,1,3,4907.00,4,4,4,Champions
+Hitika,0,3,1160.00,4,4,3,Loyal Customers
