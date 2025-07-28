@@ -21,7 +21,7 @@ CREATE OR REPLACE VIEW monthly_performance AS
         SUM(od.amount) AS total_revenue,
         SUM(od.profit) AS total_profit,
         COUNT(DISTINCT o.order_id) AS total_orders,
-         ROUND((SUM(od.profit) / SUM(od.amount)) * 100, 2) AS profit_margin_percentage,
+         ROUND((SUM(od.profit) / SUM(od.amount)) * 100, 2) AS profit_Fmargin_percentage,
     ROUND(SUM(od.amount) / COUNT(DISTINCT o.order_id), 2) AS monthly_aov
     FROM order_details od
     JOIN orders o ON od.order_id = o.order_id
@@ -160,6 +160,20 @@ CREATE OR REPLACE VIEW target_analysis AS
 
 SELECT * FROM target_analysis;
 
+-- View to calculate category performance metrics
+-- This view aggregates total revenue and profit by product category
+CREATE OR REPLACE VIEW category_performance AS
+SELECT
+    category,
+    SUM(amount) AS total_revenue,
+    SUM(profit) AS total_profit
+FROM
+    order_details
+GROUP BY
+    category;
+
+SELECT * FROM category_performance;
+
 --  PSQL command to save the views created as CSV files
 /*
 \copy (SELECT * FROM product_performance) TO 'C:/Users/Rishav Singh Solanki/Desktop/data-analysis/e-commerce/data/sql_views/product_performance.csv' WITH (FORMAT CSV, HEADER);
@@ -169,4 +183,5 @@ SELECT * FROM target_analysis;
 \copy (SELECT * FROM monthly_performance) TO 'C:/Users/Rishav Singh Solanki/Desktop/data-analysis/e-commerce/data/sql_views/monthly_performance.csv' WITH (FORMAT CSV, HEADER);
 \copy (SELECT * FROM regional_performance) TO 'C:/Users/Rishav Singh Solanki/Desktop/data-analysis/e-commerce/data/sql_views/regional_performance.csv' WITH (FORMAT CSV, HEADER);
 \copy (SELECT * FROM customer_performance) TO 'C:/Users/Rishav Singh Solanki/Desktop/data-analysis/e-commerce/data/sql_views/customer_performance.csv' WITH (FORMAT CSV, HEADER);
+\copy (SELECT * FROM category_performance) TO 'C:/Users/Rishav Singh Solanki/Desktop/data-analysis/e-commerce/data/sql_views/category_performance.csv' WITH (FORMAT CSV, HEADER);
 */
